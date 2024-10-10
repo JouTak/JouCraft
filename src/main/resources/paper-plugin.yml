@@ -1,0 +1,4 @@
+name: CustomJouCrafting
+version: '${project.version}'
+main: org.joutak.customjoucrafting.CustomJouCrafting
+api-version: '1.21'
